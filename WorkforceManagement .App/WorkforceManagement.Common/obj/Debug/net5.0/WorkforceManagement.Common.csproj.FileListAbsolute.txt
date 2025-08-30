@@ -1,0 +1,12 @@
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement.Common\bin\Debug\net5.0\WorkforceManagement.Common.deps.json
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement.Common\bin\Debug\net5.0\WorkforceManagement.Common.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement.Common\bin\Debug\net5.0\ref\WorkforceManagement.Common.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement.Common\bin\Debug\net5.0\WorkforceManagement.Common.pdb
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement.Common\obj\Debug\net5.0\WorkforceManagement.Common.csproj.AssemblyReference.cache
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement.Common\obj\Debug\net5.0\WorkforceManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement.Common\obj\Debug\net5.0\WorkforceManagement.Common.AssemblyInfoInputs.cache
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement.Common\obj\Debug\net5.0\WorkforceManagement.Common.AssemblyInfo.cs
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement.Common\obj\Debug\net5.0\WorkforceManagement.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement.Common\obj\Debug\net5.0\WorkforceManagement.Common.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement.Common\obj\Debug\net5.0\ref\WorkforceManagement.Common.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement.Common\obj\Debug\net5.0\WorkforceManagement.Common.pdb

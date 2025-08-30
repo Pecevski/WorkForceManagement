@@ -1,0 +1,17 @@
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\bin\Debug\net5.0\WorkforceManagement .Models.deps.json
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\bin\Debug\net5.0\WorkforceManagement .Models.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\bin\Debug\net5.0\ref\WorkforceManagement .Models.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\bin\Debug\net5.0\WorkforceManagement .Models.pdb
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\bin\Debug\net5.0\WorkforceManagement.Common.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\bin\Debug\net5.0\WorkforceManagement .Data.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\bin\Debug\net5.0\WorkforceManagement .Data.pdb
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\bin\Debug\net5.0\WorkforceManagement.Common.pdb
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\obj\Debug\net5.0\WorkforceManagement .Models.csproj.AssemblyReference.cache
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\obj\Debug\net5.0\WorkforceManagement .Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\obj\Debug\net5.0\WorkforceManagement .Models.AssemblyInfoInputs.cache
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\obj\Debug\net5.0\WorkforceManagement .Models.AssemblyInfo.cs
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\obj\Debug\net5.0\WorkforceManagement .Models.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\obj\Debug\net5.0\WorkforceManagement .Models.csproj.CopyComplete
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\obj\Debug\net5.0\WorkforceManagement .Models.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\obj\Debug\net5.0\ref\WorkforceManagement .Models.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Models\obj\Debug\net5.0\WorkforceManagement .Models.pdb

@@ -1,0 +1,435 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.WebApi\\WorkforceManagement.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.Common\\WorkforceManagement.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.Common\\WorkforceManagement.Common.csproj",
+        "projectName": "WorkforceManagement.Common",
+        "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.Common\\WorkforceManagement.Common.csproj",
+        "packagesPath": "C:\\Users\\Ilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.WebApi\\WorkforceManagement.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.WebApi\\WorkforceManagement.WebApi.csproj",
+        "projectName": "WorkforceManagement.WebApi",
+        "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.WebApi\\WorkforceManagement.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Ilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.Common\\WorkforceManagement.Common.csproj": {
+                "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.Common\\WorkforceManagement.Common.csproj"
+              },
+              "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Data\\WorkforceManagement .Data.csproj": {
+                "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Data\\WorkforceManagement .Data.csproj"
+              },
+              "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Models\\WorkforceManagement .Models.csproj": {
+                "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Models\\WorkforceManagement .Models.csproj"
+              },
+              "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Services\\WorkforceManagement .Services.csproj": {
+                "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Services\\WorkforceManagement .Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Data\\WorkforceManagement .Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Data\\WorkforceManagement .Data.csproj",
+        "projectName": "WorkforceManagement .Data",
+        "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Data\\WorkforceManagement .Data.csproj",
+        "packagesPath": "C:\\Users\\Ilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.Common\\WorkforceManagement.Common.csproj": {
+                "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement.Common\\WorkforceManagement.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Models\\WorkforceManagement .Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Models\\WorkforceManagement .Models.csproj",
+        "projectName": "WorkforceManagement .Models",
+        "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Models\\WorkforceManagement .Models.csproj",
+        "packagesPath": "C:\\Users\\Ilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Data\\WorkforceManagement .Data.csproj": {
+                "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Data\\WorkforceManagement .Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Services\\WorkforceManagement .Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Services\\WorkforceManagement .Services.csproj",
+        "projectName": "WorkforceManagement .Services",
+        "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Services\\WorkforceManagement .Services.csproj",
+        "packagesPath": "C:\\Users\\Ilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Data\\WorkforceManagement .Data.csproj": {
+                "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Data\\WorkforceManagement .Data.csproj"
+              },
+              "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Models\\WorkforceManagement .Models.csproj": {
+                "projectPath": "C:\\Users\\Ilija\\Desktop\\ScaleFocusAcademy\\team-1-group-project\\WorkforceManagement .App\\WorkforceManagement .Models\\WorkforceManagement .Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Nager.Date": {
+              "target": "Package",
+              "version": "[1.29.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

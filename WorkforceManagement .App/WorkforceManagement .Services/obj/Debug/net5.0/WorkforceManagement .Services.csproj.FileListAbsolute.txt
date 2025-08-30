@@ -1,0 +1,19 @@
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\bin\Debug\net5.0\WorkforceManagement .Services.deps.json
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\bin\Debug\net5.0\WorkforceManagement .Services.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\bin\Debug\net5.0\ref\WorkforceManagement .Services.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\bin\Debug\net5.0\WorkforceManagement .Services.pdb
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\bin\Debug\net5.0\WorkforceManagement.Common.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\bin\Debug\net5.0\WorkforceManagement .Data.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\bin\Debug\net5.0\WorkforceManagement .Models.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\bin\Debug\net5.0\WorkforceManagement .Data.pdb
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\bin\Debug\net5.0\WorkforceManagement .Models.pdb
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\bin\Debug\net5.0\WorkforceManagement.Common.pdb
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\obj\Debug\net5.0\WorkforceManagement .Services.csproj.AssemblyReference.cache
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\obj\Debug\net5.0\WorkforceManagement .Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\obj\Debug\net5.0\WorkforceManagement .Services.AssemblyInfoInputs.cache
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\obj\Debug\net5.0\WorkforceManagement .Services.AssemblyInfo.cs
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\obj\Debug\net5.0\WorkforceManagement .Services.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\obj\Debug\net5.0\WorkforceManagement .Services.csproj.CopyComplete
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\obj\Debug\net5.0\WorkforceManagement .Services.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\obj\Debug\net5.0\ref\WorkforceManagement .Services.dll
+C:\Users\Ilija\Desktop\team-1-group-project\WorkforceManagement .App\WorkforceManagement .Services\obj\Debug\net5.0\WorkforceManagement .Services.pdb
